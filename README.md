@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richmond Nunoo</h1>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=al4fgdsp5hCYeA&pid=ImgRaw&r=0">
+
 <h3 align="center">A results-oriented software Engineer specialized in developing efficient and enterprise-level mobile apps and backend services. . I have experience with different stacks; from Dart to JavaScript to PHP to Java & Kotlin</h3>
 
 <p align="left"> <a href="https://twitter.com/kwame_orsam" target="blank"><img src="https://img.shields.io/twitter/follow/kwame_orsam?logo=twitter&style=for-the-badge" alt="kwame_orsam" /></a> </p>
