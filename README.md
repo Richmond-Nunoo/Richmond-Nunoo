@@ -5,7 +5,11 @@
 <p align="left"> <a href="https://twitter.com/kwame_orsam" target="blank"><img src="https://img.shields.io/twitter/follow/kwame_orsam?logo=twitter&style=for-the-badge" alt="kwame_orsam" />
   <a href="https://www.github.com/Richmond-Nunoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Richmond-Nunoo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a> </p>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=richmond-nunoo&label=Profile%20views&color=0e75b6&style=flat" alt="richmond-nunoo" />
+  
+  </p>
+  
 
 - 🌍  I'm based in Accra, Ghana
 
@@ -32,3 +36,8 @@ src="https://img.shields.io/github/followers/Richmond-Nunoo?logo=github&style=fo
 
 <h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/kwame"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kwame" /></a></p>
+
+
+
+
+
