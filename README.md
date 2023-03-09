@@ -13,8 +13,6 @@ src="https://img.shields.io/github/followers/Richmond-Nunoo?logo=github&style=fo
 
 - 🌍  I'm based in Accra, Ghana
 
-- 🔭 I’m currently working on **Tourizilla**
-
 - 👯 I’m looking to collaborate on **any Flutter project**
 
 - 💬 Ask me about **flutter**
