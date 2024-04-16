@@ -67,10 +67,6 @@ src="https://img.shields.io/github/followers/Richmond-Nunoo?logo=github&style=fo
 
 
 
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/kwame"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kwame" /></a></p>
- 
-
 
 
 
